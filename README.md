@@ -13,3 +13,4 @@ Here are some public submissions, as most of my module development is hidden wit
 | Adtran AOS NetVanta 	|   https://communities.logicmonitor.com/topic/6312-adtran-aos-netvanta/ |
 | Gigamon GigaVUE 	|   https://communities.logicmonitor.com/topic/6313-gigamon-gigavue/ |
 | CradlePoint NetCloud 	|   https://communities.logicmonitor.com/topic/6372-cradlepoint-netcloud/ |
+| Rubrik: Cloud Data Management & Enterprise Backup  | https://communities.logicmonitor.com/topic/6375-rubrik-cloud-data-management-enterprise-backup/ |
